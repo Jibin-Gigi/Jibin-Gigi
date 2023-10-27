@@ -2,9 +2,10 @@
 - 👀 I’m interested in Coding and Speaking 
 - 🌱 I’m currently learning Btech Computer Science and Engineering in SJCET,Palai
 - 💞️ I’m currenting working as
-         Marketing Officer @ IEDC Startup Bootcamp ,Sjcet
-         Program committee member @ CSEA Sjcet
-         Intern @ Gtech Mulearn
+         1.Marketing Officer @ IEDC Startup Bootcamp ,Sjcet
+         2.Program committee member @ CSEA Sjcet
+         3.Intern @ Gtech Mulearn
+         4.Volunteer and Camp coordinator of Yes Idukki
 
 <!---
 Jibin-Gigi/Jibin-Gigi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
