@@ -14,8 +14,9 @@
       &emsp; &emsp;  3.Intern @ Gtech Mulearn<br>
       &emsp; &emsp;  4.Volunteer and Camp coordinator of Yes Idukki<br>
       &emsp; &emsp;  5.Startup Coordinator @IIC Sjcet<br>
+- 🌱 I’m currently learning **HTML, CSS, JavaScript**  
 
- - 🌱 I’m currently learning **HTML, CSS, JavaScript**     
+
 <dev><br></dev>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Jibin-Gigi" alt="Jibin-Gigi" /></a> </p>
