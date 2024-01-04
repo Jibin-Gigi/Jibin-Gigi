@@ -29,7 +29,9 @@
       
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Jibin-Gigi&label=Profileviews&color=0e75b6&style=flat" alt="Jibin Gigi" /> </p>
 
-
+<div align="center">
+  <img src="https://profile-counter.glitch.me/Jibin-Gigi/count.svg?"  />
+</div>
 
 
 <div> <a href="https://github.com/Jibin-Gigi" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
