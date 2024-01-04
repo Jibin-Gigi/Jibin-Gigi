@@ -1,4 +1,6 @@
-<img src="https://raw.githubusercontent.com/BEPb/BEPb/5c63fa170d1cbbb0b1974f05a3dbe6aca3f5b7f3/assets/Bottom_up.svg" width="30%" />
+<img src="https://raw.githubusercontent.com/BEPb/BEPb/5c63fa170d1cbbb0b1974f05a3dbe6aca3f5b7f3/assets/Bottom_up.svg" width="30%" /> 
+<div> <a href="https://github.com/Jibin-Gigi" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
+
 <img title="Jibin Gigi" alt="README" src="https://wallpapercave.com/wp/wp2757832.gif">
 
 <br>
@@ -29,7 +31,6 @@
       
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Jibin-Gigi&label=Profile%20views&color=0e75b6&style=flat" alt="Jibin Gigi" /> </p>
 
-<div> <a href="https://github.com/Jibin-Gigi" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
 
 
          
