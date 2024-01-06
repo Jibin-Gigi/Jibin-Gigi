@@ -3,6 +3,7 @@
 
 <img title="Jibin Gigi" alt="README" src="https://wallpapercave.com/wp/wp2757832.gif">
 
+
 <br>
 <h1 align="center">Hi 👋, I'm Jibin Gigi</h1>
 <p align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=7500F7&center=true&random=false&width=435&lines=Beginner+@+Programming;UI%2FUX+Designer;Tech+Enthusiast" alt="Typing SVG" /></a></p>
