@@ -35,6 +35,10 @@
 <br>
 
 
+<div align="center">
+  <img src="https://profile-counter.glitch.me/Jibin-Gigi/count.svg?"  />
+</div>
+
 
 
 
