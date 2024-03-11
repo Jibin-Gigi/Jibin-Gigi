@@ -34,7 +34,7 @@
 
 <br>
 
-
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Jibin-Gigi&label=Profile%20views&color=0e75b6&style=flat" alt="Jibin Gigi" /> </p>
 
 
 
@@ -58,6 +58,6 @@ You can click the Preview link to take a look at your changes.
 
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Jibin-Gigi&label=Profile%20views&color=0e75b6&style=flat" alt="Jibin Gigi" /> </p>
+
 
 --->
