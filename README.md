@@ -34,8 +34,10 @@
 
 <br>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Jibin-Gigi&label=Profile%20views&color=0e75b6&style=flat" alt="Jibin Gigi" /> </p>
 
+<div align="center">
+  <img src="https://profile-counter.glitch.me/Jibin-Gigi/count.svg?"  />
+</div>
 
 
 
@@ -46,9 +48,7 @@
 Jibin-Gigi/Jibin-Gigi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 
-<div align="center">
-  <img src="https://profile-counter.glitch.me/Jibin-Gigi/count.svg?"  />
-</div>
+
 
 <hr>
 
@@ -57,7 +57,7 @@ You can click the Preview link to take a look at your changes.
 </div>
 
 
-
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Jibin-Gigi&label=Profile%20views&color=0e75b6&style=flat" alt="Jibin Gigi" /> </p>
 
 
 --->
