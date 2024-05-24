@@ -32,6 +32,9 @@
 <br>
 
 
+  <img width="868px" src="https://github-readme-activity-graph.vercel.app/graph?username=Jibin-Gigi&theme=react-dark" alt="Jibin-Gigi"/>
+
+</div>
 
 
 
