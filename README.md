@@ -11,7 +11,7 @@
 - 👀 I’m interested in Coding and Speaking <br>
 - 🌱 I’m currently Btech Computer Science and Engineering student in SJCET,Palai <br>
 - 💞️ I’m currenting working as<br>
-      &emsp; &emsp;  1.Marketing Officer @ IEDC Startup Bootcamp ,Sjcet<br>
+      &emsp; &emsp;  1.Chief Skills Officer @ IEDC Startup Bootcamp ,Sjcet<br>
       &emsp; &emsp;  2.Program committee member @ CSEA Sjcet<br>
       &emsp; &emsp;  3.Intern @ Gtech Mulearn<br>
       &emsp; &emsp;  4.Volunteer and Camp coordinator of Yes Idukki<br>
@@ -29,12 +29,7 @@
 <div align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Jibin-Gigi&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=midnight-purple&hide_border=true&order=2" height="150" alt="languages graph"  />
   <img src="https://streak-stats.demolab.com?user=Jibin-Gigi&locale=en&mode=daily&theme=midnight-purple&hide_border=true&border_radius=5&date_format=j M[ Y]&order=3" height="150" alt="streak graph"  />
-      
-
-
 <br>
-
-
 
 
 
@@ -46,18 +41,6 @@
 Jibin-Gigi/Jibin-Gigi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 
-<div align="center">
-  <img src="https://profile-counter.glitch.me/Jibin-Gigi/count.svg?"  />
-</div>
-
-<hr>
-
-<div align="center">
-  <img src="https://profile-counter.glitch.me/Jibin-Gigi/count.svg?"  />
-</div>
-
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Jibin-Gigi&label=Profile%20views&color=0e75b6&style=flat" alt="Jibin Gigi" /> </p>
 
 
 --->
