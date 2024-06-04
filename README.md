@@ -6,7 +6,7 @@
 
 <br>
 <h1 align="center">Hi 👋, I'm Jibin Gigi</h1>
-<p align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=7500F7&center=true&random=false&width=435&lines=Beginner+@+Programming;UI%2FUX+Designer;Tech+Enthusiast" alt="Typing SVG" /></a></p>
+<p align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=100&color=7500F7&center=true&random=false&width=435&lines=Programmer;UI%2FUX+Designer;Tech+Enthusiast;Problem+Solver" alt="Typing SVG" /></a></p>
 <br>
 - 👀 I’m interested in Coding and Speaking <br>
 - 🌱 I’m currently Btech Computer Science and Engineering student in SJCET,Palai <br>
