@@ -1,0 +1,19 @@
+name: Profile Views Counter
+
+on:
+  schedule:
+    - cron: '*/30 * * * *' # Runs every 30 minutes
+
+jobs:
+  update-profile-views:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - name: Update Profile Views
+        run: |
+          echo "Profile views:" $(cat profile-views.txt) > profile-views.txt
+          git config --global user.name 'Jibin-Gigi'
+          git config --global user.email 'jibingigi2026@cs.sjcetpalai.ac.in'
+          git add .
+          git commit -m "Update profile views"
+          git push
