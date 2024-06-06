@@ -1,19 +1,19 @@
-name: Profile Views Counter
-
+name: GitHub Profile Views Counter CI
 on:
   schedule:
-    - cron: '*/30 * * * *' # Runs every 30 minutes
-
+    - cron: '0 */6 * * *'
+  workflow_dispatch:
 jobs:
-  update-profile-views:
-    runs-on: ubuntu-latest
+  release:
+    name: GitHub Profile Views Counter Action
+    runs-on: ubuntu-20.04
     steps:
-      - uses: actions/checkout@v2
-      - name: Update Profile Views
-        run: |
-          echo "Profile views:" $(cat profile-views.txt) > profile-views.txt
-          git config --global user.name 'Jibin-Gigi'
-          git config --global user.email 'jibingigi2026@cs.sjcetpalai.ac.in'
-          git add .
-          git commit -m "Update profile views"
-          git push
+      - uses: actions/checkout@v2.3.4
+        with:
+          token: ${{ secrets.PROFILE_VIEW_INSIGHTS }}
+      - uses: actions/setup-node@v2.1.5
+        with:
+          node-version: 14.17.0
+      - uses: gayanvoice/github-profile-views-counter-action@3.0.0
+        env:
+          INSIGHTS_TOKEN: ${{ secrets.PROFILE_VIEW_INSIGHTS }}
