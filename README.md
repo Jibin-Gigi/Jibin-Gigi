@@ -25,6 +25,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Jibin-Gigi" alt="Jibin-Gigi" /></a> </p>
 
+<h3 align ="left">Check out the my Profiles :</h3>
+<p align="left"> 
+      <a href="https://app.mulearn.org/profile/jibingigi@mulearn" target="_blank" rel="noreferrer"> <img src="https://github.com/Jibin-Gigi/Jibin-Gigi/blob/main/assets/mu%20logo.jpg" alt="Mulearn" width="40" height="40"/> </a> 
 
 <h3 align="left">Languages :</h3>
 <p align="left"> 
