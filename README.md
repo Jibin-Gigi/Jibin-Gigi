@@ -23,7 +23,10 @@
 
 <dev><br></dev>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Jibin-Gigi" alt="Jibin-Gigi" /></a> </p>
+## Github Trophies
+<p align="left"> <a href="https://github.com/Jibin-Gigi"><img src="https://github-profile-trophy.vercel.app/?username=Jibin-Gigi&theme=nord&no-bg=true&no-frame=true&row=2&column=4" alt="manuemmanuel" /></a> </p>
+<br>
+
 
 <h3 align ="left">Check out the my Profiles :</h3>
 <p align="left"> 
@@ -63,6 +66,7 @@
 Jibin-Gigi/Jibin-Gigi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Jibin-Gigi" alt="Jibin-Gigi" /></a> </p>
 
 
 --->
