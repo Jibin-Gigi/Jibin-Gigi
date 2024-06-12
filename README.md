@@ -30,7 +30,7 @@
 
 <h3 align ="left">Check out the my Profiles :</h3>
 <p align="left"> 
-      <a href="https://app.mulearn.org/profile/jibingigi@mulearn" target="_blank" rel="noreferrer"> <img src="https://github.com/Jibin-Gigi/Jibin-Gigi/blob/main/assets/mu%20logo.png" alt="Mulearn" width="45" height="50.65"/> </a> 
+      <a href="https://app.mulearn.org/profile/jibingigi@mulearn" target="_blank" rel="noreferrer"> <img src="https://github.com/Jibin-Gigi/Jibin-Gigi/blob/main/assets/mu%20logo.png" alt="Mulearn" width="45" height="45"/> </a> 
       <a href="https://www.cloudskillsboost.google/public_profiles/bdb50f8b-3741-416a-b65b-d7634f79ec0a" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="42" height="40"/> </a> 
 
 <h3 align="left">Languages :</h3>
