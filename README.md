@@ -7,6 +7,12 @@
 <br>
 <h1 align="center">Hi 👋, I'm Jibin Gigi</h1>
 <p align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=100&color=7500F7&center=true&random=false&width=435&lines=Programmer;UI%2FUX+Designer;Tech+Enthusiast;Problem+Solver" alt="Typing SVG" /></a></p>
+
+
+<div align="center">
+  <img src="https://profile-counter.glitch.me/Jibin-Gigi/count.svg?"  />
+</div>
+
 <br>
 - 👀 I’m interested in Coding and Speaking <br>
 - 🌱 I’m currently Btech Computer Science and Engineering student in SJCET,Palai <br>
@@ -57,8 +63,6 @@
 
 </div>
 
-<p align="left">
-<img src="https://visitor-badge.laobi.icu/badge?page_id=Jibin-Gigi"/></p>
 
          
 
@@ -68,5 +72,11 @@ You can click the Preview link to take a look at your changes.
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Jibin-Gigi" alt="Jibin-Gigi" /></a> </p>
 
+
+
+
+
+<p align="left">
+<img src="https://visitor-badge.laobi.icu/badge?page_id=Jibin-Gigi"/></p>
 
 --->
