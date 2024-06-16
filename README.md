@@ -27,7 +27,7 @@
 <dev><br></dev>
 
 ## Github Trophies
-<p align="left"> <a href="https://github.com/Jibin-Gigi"><img src="https://github-profile-trophy.vercel.app/?username=Jibin-Gigi&theme=nord&no-bg=true&no-frame=true&row=2&column=4" alt="manuemmanuel" /></a> </p>
+<p align="left"> <a href="https://github.com/Jibin-Gigi"><img src="https://github-profile-trophy.vercel.app/?username=Jibin-Gigi&theme=nord&no-bg=true&no-frame=true&row=2&column=4" alt="Jibin-Gigi" /></a> </p>
 <br>
 
 
