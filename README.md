@@ -48,7 +48,7 @@
 <h3 align="left">Tools :</h3>
 <p align="left">
       <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="38"/> </a>  
-      <a href="https://code.visualstudio.com" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/download/374171/vscode.svg" alt="vscode" width="40" height="40"/> </a> </p>
+      <a href="https://code.visualstudio.com" target="_blank" rel="noreferrer"> <img src="https://github.com/Jibin-Gigi/Jibin-Gigi/blob/main/assets/Vs%20code%20logo.jpeg" alt="vscode" width="40" height="40"/> </a> </p>
 
 
 <div align="left">
