@@ -12,7 +12,7 @@
 
 
 <br>
-- 👀 I’m interested in Coding and Speaking <br>
+- 👀 I’m interested in Designing, Problem Solving, Coding and Speaking <br>
 - 🌱 I’m currently Btech Computer Science and Engineering student in SJCET,Palai <br>
 - 💞️ I’m currenting working as<br>
       &emsp; &emsp;  1.Chief Skills Officer @ IEDC Startup Bootcamp ,Sjcet<br>
