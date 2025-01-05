@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/BEPb/BEPb/5c63fa170d1cbbb0b1974f05a3dbe6aca3f5b7f3/assets/Bottom_up.svg" width="30%" /> 
+![image](https://github.com/user-attachments/assets/10f04c7c-8871-4ad2-905a-621c916f257a)<img src="https://raw.githubusercontent.com/BEPb/BEPb/5c63fa170d1cbbb0b1974f05a3dbe6aca3f5b7f3/assets/Bottom_up.svg" width="30%" /> 
 <div> <a href="https://github.com/Jibin-Gigi" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
 
 <img title="Jibin Gigi" alt="README" src="https://wallpapercave.com/wp/wp2757832.gif">
@@ -37,6 +37,8 @@
       <a href="https://app.mulearn.org/profile/jibingigi@mulearn" target="_blank" rel="noreferrer"> <img src="https://github.com/Jibin-Gigi/Jibin-Gigi/blob/main/assets/mu%20logo.png" alt="Mulearn" width="42" height="42"/> </a> 
       <a href="https://www.cloudskillsboost.google/public_profiles/bdb50f8b-3741-416a-b65b-d7634f79ec0a" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="42" height="40"/> </a>
        <a href="https://exercism.org/profiles/Jibin-Gigi" target="_blank" rel="noreferrer"> <img src="assets/Exercism logo.png" alt="exercism" width="42" height="42"/> </a>
+       <a href="https://www.freecodecamp.org/jibingigi-freecodecamp" target="_blank" rel="noreferrer"> <img src="https://github.com/user-attachments/assets/7e8cde34-de19-43d7-9336-3606dda28e53" alt="freecodecamp" width="42" height="42"/> </a>
+
 
      
 
