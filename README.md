@@ -37,7 +37,7 @@
       <a href="https://app.mulearn.org/profile/jibingigi@mulearn" target="_blank" rel="noreferrer"> <img src="https://github.com/Jibin-Gigi/Jibin-Gigi/blob/main/assets/mu%20logo.png" alt="Mulearn" width="42" height="42"/> </a> 
       <a href="https://www.cloudskillsboost.google/public_profiles/bdb50f8b-3741-416a-b65b-d7634f79ec0a" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="42" height="40"/> </a>
        <a href="https://exercism.org/profiles/Jibin-Gigi" target="_blank" rel="noreferrer"> <img src="assets/Exercism logo.png" alt="exercism" width="42" height="42"/> </a>
-       <a href="https://www.freecodecamp.org/jibingigi-freecodecamp" target="_blank" rel="noreferrer"> <img src="https://github.com/user-attachments/assets/7e8cde34-de19-43d7-9336-3606dda28e53" alt="freecodecamp" width="42" height="42"/> </a>
+       <a href="https://www.freecodecamp.org/jibingigi-freecodecamp" target="_blank" rel="noreferrer"> <img src="https://github.com/Jibin-Gigi/Jibin-Gigi/blob/main/assets/freecodecamp-logo.png?raw=true" alt="freecodecamp" width="48" height="48"/> </a>
 
 
      
