@@ -15,10 +15,8 @@
 - 👀 I’m interested in Designing, Problem Solving, Coding and Speaking <br>
 - 🌱 I’m currently Btech Computer Science and Engineering student in SJCET,Palai <br>
 - 💞️ I’m currenting working as<br>
-      &emsp; &emsp;  1.Chief Skills Officer @ IEDC Startup Bootcamp ,Sjcet<br>
-      &emsp; &emsp;  2.Program committee member @ CSEA Sjcet<br>
-      &emsp; &emsp;  3.Volunteer and Camp coordinator of Yes Idukki<br>
-      &emsp; &emsp;  4.Startup Coordinator @IIC Sjcet<br>
+      &emsp; &emsp;  1.Student Lead @ IEDC Startup Bootcamp, Sjcet<br>
+      &emsp; &emsp;  2.Head of Cult, Sjcet<br>
 - 💞️ Old Experiences<br>
       &emsp; &emsp;  1.Ex-Intern @ Gtech Mulearn<br>
       &emsp; &emsp;  2.Ex-Central Zone Lead @ Gtech Mulearn<br>
